@@ -4,8 +4,6 @@
 
 🌟 **Web Developer | Front-End Developer**
 
-I'm a passionate web developer with a knack for creating dynamic and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies or learning new skills to stay updated in this ever-evolving field.
-
 ---
 
 ## 🚀 About Me
