@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Soyeb Ahmed Arafat!
 
-![Banner](https://i.ibb.co/DtGQt88/arafat-github-1.png)
+![Banner](https://i.ibb.co/ZMTFbwL/arafat-github-2.png)
 
 🌟 **Web Developer | Front-End Developer**
 
