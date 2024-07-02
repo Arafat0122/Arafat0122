@@ -4,6 +4,8 @@
 
 🌟 **Web Developer | Front-End Developer**
 
+I'm a passionate web developer with a knack for creating dynamic and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies or learning new skills to stay updated in this ever-evolving field.
+
 ---
 
 ## 🚀 About Me
@@ -45,14 +47,14 @@
   ![Hostinger](https://img.shields.io/badge/Hostinger-FF0000?style=for-the-badge&logo=hostinger&logoColor=white)
 - **Authentication:** 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-- **Payment Integration:** 
-  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arafat0122&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat0122&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arafat0122&theme=radical)
 
 ---
 
