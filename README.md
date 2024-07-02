@@ -14,7 +14,7 @@ I'm a passionate web developer with a knack for creating dynamic and user-friend
 - 🌱 Continuously learning and adapting to new frameworks and technologies.
 - 👯 Open to collaborating on interesting and innovative projects.
 - 💬 Ask me about web development, best practices, or anything tech-related.
-- 📫 How to reach me: [Email](soyebarafat0122@yahoo.com)
+- 📫 How to reach me: [Email](mailto:soyebarafat0122@yahoo.com)
 - ⚡ Fun fact: I love coding challenges and hackathons!
 
 ---
@@ -50,13 +50,11 @@ I'm a passionate web developer with a knack for creating dynamic and user-friend
 - **Payment Integration:** 
   ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-
 ---
 
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arafat0122&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat0122&layout=compact&theme=radical)
 
 ---
